@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhishek
 =========================
 
-I am an passionate software developer, interested in building scalable services with a background in deep learning and computer vision.
+I am a passionate software developer, interested in building scalable services with a background in deep learning and computer vision.
 
 ### Skills
 
