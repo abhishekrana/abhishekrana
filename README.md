@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhishek
 =========================
 
-I am a passionate software developer interested/experienced in building services and a background in deep learning and computer vision.
+I am a passionate software developer interested/experienced in building (micro)services and a background in deep learning and computer vision.
 
 Portfolio: [https://abhishekrana.github.io](https://abhishekrana.github.io/)
 
